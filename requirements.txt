@@ -1,5 +1,6 @@
-python 
-matplotlib
-seaborn 
-pycaret
-streamlit
+Python 3.7
+TextBlob
+NLTK
+Pandas
+Matplotlib
+Tkinter
